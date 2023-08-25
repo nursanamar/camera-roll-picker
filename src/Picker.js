@@ -10,7 +10,7 @@ import {
   Dimensions,
 } from 'react-native'
 import Ionicon from 'react-native-vector-icons/Ionicons'
-import CameraRoll from '@react-native-community/cameraroll'
+import { CameraRoll } from "@react-native-camera-roll/camera-roll";
 
 import Row from './Row'
 
